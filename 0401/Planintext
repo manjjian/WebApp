@@ -1,0 +1,9 @@
+src/
+  ├── components/
+  │    ├── Header.jsx
+  │    ├── Hero.jsx
+  │    ├── SkillTag.jsx
+  │    ├── ProjectCard.jsx
+  │    └── ProjectList.jsx
+  ├── App.js
+  └── App.css
